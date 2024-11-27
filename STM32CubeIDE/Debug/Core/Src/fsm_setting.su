@@ -1,3 +1,0 @@
-fsm_setting.c:5:6:FSMDisplayLED1	8	static
-fsm_setting.c:48:6:FSMDisplayLED2	8	static
-fsm_setting.c:69:6:FSM_Display_2LED	8	static
