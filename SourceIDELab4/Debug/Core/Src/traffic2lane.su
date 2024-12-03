@@ -1,0 +1,8 @@
+traffic2lane.c:4:6:red_1	8	static
+traffic2lane.c:10:6:green_1	8	static
+traffic2lane.c:16:6:yellow_1	8	static
+traffic2lane.c:22:6:red_2	8	static
+traffic2lane.c:28:6:green_2	8	static
+traffic2lane.c:34:6:yellow_2	8	static
+traffic2lane.c:39:6:off_lane1	8	static
+traffic2lane.c:44:6:off_lane2	8	static
